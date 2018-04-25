@@ -1,7 +1,7 @@
 #Andrew Zimmerman
 #alz140030
 #alz140030@utdallas.edu
-
+#section .002
 CXX = g++
 CXXFLAGS = -Wall -g
 CPPFLAGS = -I/scratch/perkins/include
