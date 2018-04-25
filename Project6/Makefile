@@ -1,6 +1,6 @@
 #Andrew Zimmerman
 #alz140030
-#
+#alz140030@utdallas.edu
 
 CXX = g++
 CXXFLAGS = -Wall -g
