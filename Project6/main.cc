@@ -1,3 +1,8 @@
+#Project by Andrew Zimmerman
+#alz140030
+#alz140030@utdallas.edu
+#section .002
+
 #include <iostream>
 #include "cdk.h"
 #include <fstream>
@@ -9,6 +14,8 @@
 #define MATRIX_HEIGHT 5
 #define BOX_WIDTH 15
 #define MATRIX_NAME_STRING "Test Matrix"
+
+
 
 using namespace std;
 class BinaryFileHeader
